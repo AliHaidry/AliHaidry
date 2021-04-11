@@ -16,8 +16,8 @@
 
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
 
-Hi, I'm [Syed Muhammad Ali Haidry](https://epic-swanson-af3313.netlify.app), a passionate <b>Software Systems Engineer</b>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
+Hi, I'm [Syed Muhammad Ali Haidry](https://epic-swanson-af3313.netlify.app), a passionate <span style="color:pink;">Software Systems Engineer.</span> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<span style="color:pink;"></span>
 My learning and implementation persist in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>, <strong>Cloud Architecture<strong> & <strong>Software Development<strong>.
 
 <img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="300" />
