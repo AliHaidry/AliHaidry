@@ -20,7 +20,7 @@ Hi, I'm [Syed Muhammad Ali Haidry](https://epic-swanson-af3313.netlify.app), a p
 
 My learing and implementing lays in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>.
 
-<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="300" />
 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@AliHaidy5](https://twitter.com/AliHaidry5).
