@@ -37,8 +37,8 @@ My learing and implementing lays in the domain of <strong>DevOps<strong>, <stron
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://banner2.cleanpng.com/20180810/kkb/kisspng-database-logo-brand-product-design-computer-mongodb-5b6d9c93df73c5.5396315115339101639153.jpg"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111432.svg?token=exp=1618180577~hmac=658180ecc81f59b0b4cbc4ca706c79ad"></code>
+<code><img height="30" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png"></code>
+<code><img height="30" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
