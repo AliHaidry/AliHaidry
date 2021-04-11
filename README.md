@@ -37,7 +37,7 @@ My learing and implementing lays in the domain of <strong>DevOps<strong>, <stron
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fmongodb-226029.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fmongodb&tbnid=tNZWbfI57X_8_M&vet=12ahUKEwiI-b-Cm_fvAhUygE4HHQfqCX4QMygAegUIARDIAQ..i&docid=9wUo5t64Z6ln8M&w=512&h=512&q=mongodB%20icon&ved=2ahUKEwiI-b-Cm_fvAhUygE4HHQfqCX4QMygAegUIARDIAQ"></code>
+<code><img height="30" src="https://miro.medium.com/max/875/1*b0TtGI6gWFLltL1QkRxVdg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
