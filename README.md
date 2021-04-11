@@ -13,4 +13,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AliHaidry.AliHaidry)
 
 <br/>
+
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
+
+
+<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="320" />
