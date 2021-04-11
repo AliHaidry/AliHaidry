@@ -16,10 +16,9 @@
 
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
 
-Hi, I'm [Syed Muhammad Ali Haidry](https://epic-swanson-af3313.netlify.app), a passionate software systems engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Syed Muhammad Ali Haidry](https://epic-swanson-af3313.netlify.app), a passionate <b>Software Systems Engineer.</b> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-My learing and implementing lays in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>, 
-<strong>Cloud Architecture<strong> & <strong>Software Development<strong>.
+My learning and implementation persist in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>, <strong>Cloud Architecture<strong> & <strong>Software Development<strong>.
 
 <img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="300" />
 
@@ -37,7 +36,7 @@ My learing and implementing lays in the domain of <strong>DevOps<strong>, <stron
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
 <code><img height="20" src="https://res.cloudinary.com/closebrace/image/upload/w_720/v1488486544/c8zegfht6jrzukkeuu0k.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
