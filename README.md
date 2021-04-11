@@ -51,4 +51,4 @@ My learing and implementing lays in the domain of <strong>DevOps<strong>, <stron
 
 📈 My GitHub Stats !
 
-<p align="center"> <img src="https://github-readme-stats-alihaidry.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
+<p align="center"> <img src="https://github-readme-stats-five-silk.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
