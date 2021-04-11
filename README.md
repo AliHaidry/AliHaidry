@@ -37,7 +37,7 @@ My learing and implementing lays in the domain of <strong>DevOps<strong>, <stron
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png"></code>
+<code><img height="30" src="https://pics.freeicons.io/uploads/icons/png/2160067051553750371-512.png"></code>
 <code><img height="30" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
