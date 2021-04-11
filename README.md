@@ -10,8 +10,7 @@
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=AliHaidry.AliHaidry)
 
-<br />
-<br>
+<br/>
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
