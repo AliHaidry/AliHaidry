@@ -12,6 +12,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-<br />
-<br>
+<br/>
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
