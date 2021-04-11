@@ -38,7 +38,7 @@ My learing and implementing lays in the domain of <strong>DevOps<strong>, <stron
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/P/postgre-sql-logo-600AD1A66B-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/postgre-sql-logo-600AD1A66B-seeklogo.com.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
