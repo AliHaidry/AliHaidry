@@ -54,9 +54,9 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 <h2>⭐ Badges</h2>
 
-<p align="center">   
+<p align="center"> 
 </a>
-   <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Famazon-web-services&psig=AOvVaw0_H6--1ZngMxm9GxwrDoLK&ust=1619482202582000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCL8b3PmvACFQAAAAAdAAAAABAD" alt="AWS Certified Cloud Practitioner" /> 
+   <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/linkedin_thumb_AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" /> 
 </p>
 
 <br>
