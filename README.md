@@ -52,6 +52,18 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 ---
 
+<h2>⭐ Badges</h2>
+
+<p align="center">   
+</a>
+   <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Famazon-web-services&psig=AOvVaw0_H6--1ZngMxm9GxwrDoLK&ust=1619482202582000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCL8b3PmvACFQAAAAAdAAAAABAD" alt="AWS Certified Cloud Practitioner" /> 
+</p>
+
+<br>
+<br>
+
+---
+
 📈 My GitHub Stats !
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
