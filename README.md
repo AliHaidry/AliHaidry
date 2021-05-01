@@ -52,12 +52,12 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 ---
 
-**My Badges:**
+<h2>⭐ Badges</h2>
 
 <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/linkedin_thumb_AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" /> 
 
 ---
 
-**My GitHub Stats:**
+📈 My GitHub Stats !
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
