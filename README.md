@@ -52,7 +52,7 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 ---
 
-**⭐ Badges:**
+**⭐ Badges**
 
 <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/linkedin_thumb_AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" /> 
 </a>
