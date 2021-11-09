@@ -45,6 +45,9 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://symbols.getvecta.com/stencil_97/45_terraform-icon.d8dd637866.svg"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/28900900?s=192"></code>
+
+
 
 <br/>
 <br>
