@@ -3,7 +3,7 @@
 <a href="https://twitter.com/AliHaidry5">
   <img align="left" alt="Ali Haidry | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ali-haidry-7b5ba9136/">
+<a href="https://www.linkedin.com/in/ali-haidry-meng-7b5ba9136/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:smalihaidry94@gmail.com">
