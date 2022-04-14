@@ -57,14 +57,13 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 **⭐ Badges**
 
-<a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/linkedin_thumb_AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" /> 
+<a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" /> 
 </a>
 <br>
 <a href="https://www.credly.com/badges/57e3da1e-a56b-4498-b740-0206862ebf24"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" /> 
 </a>
-<br>
-<a href="https://www.credly.com/badges/57e3da1e-a56b-4498-b740-0206862ebf24"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" /> 
-</a>
+
+
 ---
 
 📈 My GitHub Stats !
