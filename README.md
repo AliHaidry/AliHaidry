@@ -48,11 +48,6 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 
 
-<br/>
-<br>
-<br>
-<br>
-
 ---
 
 **⭐ Badges**
