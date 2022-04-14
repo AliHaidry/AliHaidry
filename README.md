@@ -46,8 +46,6 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/28900900?s=192"></code>
 
-
-
 <br/>
 <br>
 <br>
@@ -59,7 +57,6 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" /> 
 </a>
-<br>
 <a href="https://www.credly.com/badges/57e3da1e-a56b-4498-b740-0206862ebf24"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" /> 
 </a>
 
@@ -68,4 +65,4 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 📈 My GitHub Stats !
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" /> </p>
