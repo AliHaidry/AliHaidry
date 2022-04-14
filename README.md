@@ -70,4 +70,4 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 📈 My GitHub Stats !
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" /> </p>
