@@ -61,7 +61,8 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 </a>
 <a href="https://www.credly.com/badges/50d4cf64-baab-4c21-bb3b-4a1d86cce132/linked_in?t=rn1uo1"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Administrator Associate" /> 
 </a>
-
+<a href="https://www.credly.com/earner/earned/badge/84432def-8f24-44de-ac78-82eca5381c19"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals" /> 
+</a>
 
 ---
 
