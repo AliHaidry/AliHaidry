@@ -57,12 +57,12 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 
 <a href="https://www.credly.com/badges/22b88b63-6e17-4970-b026-97997bf7d73b/public_url"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" /> 
 </a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AliHaidry-2957/7E21815DD039406E?sharingId=7C8919AAC2ECD3CD"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" /> 
+<a href="https://learn.microsoft.com/en-ca/users/alihaidry-2957/credentials/7e21815dd039406e"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" /> 
 </a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AliHaidry-2957/76063ACEFAFF27E6?sharingId=7C8919AAC2ECD3CD
+<a href="https://learn.microsoft.com/en-us/users/alihaidry-2957/credentials/76063acefaff27e6
 "><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Administrator Associate" /> 
 </a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AliHaidry-2957/404AF367A5B18E11?sharingId=7C8919AAC2ECD3CD"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals" /> 
+<a href="https://learn.microsoft.com/en-us/users/AliHaidry-2957/credentials/404AF367A5B18E1"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals" /> 
 </a>
 
 ---
