@@ -66,6 +66,9 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 </a>
 <a href="https://learn.microsoft.com/en-us/users/alihaidry-2957/credentials/b8be0efa6b9699fa"><img class="icon-image" height="100" src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" alt="Microsoft Certified: Azure AI Engineer Associate" /> 
 </a>
+<a href="https://learn.microsoft.com/en-us/users/alihaidry-2957/credentials/b8be0efa6b9699fa"><img class="icon-image" height="100" src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" /> 
+</a>
+
 
 ---
 
