@@ -10,8 +10,6 @@
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=AliHaidry.AliHaidry)
-
 <br/>
 
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
@@ -38,7 +36,6 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/closebrace/image/upload/w_720/v1488486544/c8zegfht6jrzukkeuu0k.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
