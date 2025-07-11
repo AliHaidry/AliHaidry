@@ -1,8 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=AliHaidry&color=000000)](https://github.com/AliHaidry?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=AliHaidry&color=000000)](https://github.com/AliHaidry?tab=repositories)
 
 <br>
 
@@ -17,7 +15,7 @@
 </a>
 
 <br/>
-
+<br>
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
 
 Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), a passionate <b>Software Systems Engineer.</b> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
