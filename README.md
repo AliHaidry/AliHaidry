@@ -18,30 +18,14 @@ Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), a passiona
 
 My learning and implementation persist in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>, <strong>Cloud Architecture<strong> & <strong>Software Development<strong>.
 
-<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="440" height="300" />
 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@AliHaidy5](https://twitter.com/AliHaidry5).
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=gcp"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/28900900?s=192"></code>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,ansible,bash,cpp,cs,docker,git,github,grafana,java,kubernetes,linux,mongodb,mysql,nginx,postgres,powershell,prometheus,py,terraform,unity,vscode,windows,githubactions,java,jenkins,js&perline=5&theme=light)](https://skillicons.dev)
 
 <br/>
 <br>
