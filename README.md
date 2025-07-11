@@ -18,7 +18,7 @@ Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), a passiona
 
 My learning and implementation persist in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>, <strong>Cloud Architecture<strong> & <strong>Software Development<strong>.
 
-<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="440" height="300" />
 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@AliHaidy5](https://twitter.com/AliHaidry5).
