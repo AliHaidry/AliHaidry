@@ -1,5 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=AliHaidry&color=000000)](https://github.com/AliHaidry?tab=repositories)
+
+<br>
+
 <a href="https://twitter.com/AliHaidry5">
   <img align="left" alt="Ali Haidry | Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" />
 </a>
