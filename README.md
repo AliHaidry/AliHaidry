@@ -15,7 +15,7 @@
 
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
 
-Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), an **Infrastructure Cloud Engineer** with 5+ years designing, governing, and operating hybrid cloud and on-premises infrastructure across **Azure (primary), AWS, and GCP**. Microsoft Certified **Azure Solutions Architect Expert (AZ-305)**, with an MEng in Software Systems Engineering (University of Regina, Canada). I specialize in cloud governance, infrastructure-as-code automation, and production observability — currently operating bare-metal virtualisation (Hyper-V, Proxmox VE/KVM) alongside cloud-native platforms.
+Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), a **DevOps & Infrastructure Cloud Engineer** with 5+ years designing, governing, and operating hybrid cloud and on-premises infrastructure across **Azure (primary), AWS, and GCP**. Microsoft Certified **Azure Solutions Architect Expert (AZ-305)**, with an MEng in Software Systems Engineering (University of Regina, Canada). I specialize in cloud governance, infrastructure-as-code automation, and production observability — currently operating bare-metal virtualisation (Hyper-V, Proxmox VE/KVM) alongside cloud-native platforms.
 
 <img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="440" height="300" />
 
