@@ -2,7 +2,7 @@
 [![](https://komarev.com/ghpvc/?username=AliHaidry&color=000000)](https://github.com/AliHaidry?tab=repositories)
 
 <a href="https://twitter.com/AliHaidry5">
-  <img align="left" alt="Ali Haidry | Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" />
+  <img align="left" alt="Ali Haidry | X (Twitter)" width="22px" src="https://cdn.simpleicons.org/x/000000" />
 </a>
 <a href="https://www.linkedin.com/in/ali-haidry-meng-7b5ba9136/">
   <img align="left" alt="Ali Haidry's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
