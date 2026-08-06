@@ -15,22 +15,33 @@
 
 ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
 
-Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), a passionate <b>Software Systems Engineer.</b> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-My learning and implementation persist in the domain of <strong>DevOps<strong>, <strong>Cloud Solutions<strong>, <strong>Cloud Architecture<strong> & <strong>Software Development<strong>.
+Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), an **Infrastructure Cloud Engineer** with 5+ years designing, governing, and operating hybrid cloud and on-premises infrastructure across **Azure (primary), AWS, and GCP**. Microsoft Certified **Azure Solutions Architect Expert (AZ-305)**, with an MEng in Software Systems Engineering (University of Regina, Canada). I specialize in cloud governance, infrastructure-as-code automation, and production observability — currently operating bare-metal virtualisation (Hyper-V, Proxmox VE/KVM) alongside cloud-native platforms.
 
 <img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="440" height="300" />
 
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@AliHaidy5](https://twitter.com/AliHaidry5).
+- 🔭 Currently building GitOps-driven hybrid infrastructure spanning Proxmox VE bare-metal virtualisation and Azure cloud-native platforms.
+- 💬 Ask me about Azure landing zones, Hyper-V/Proxmox automation, FinOps governance, or observability pipelines (Prometheus, Grafana, Loki).
+- 📫 How to reach me: [@AliHaidry5](https://twitter.com/AliHaidry5) or [smalihaidry94@gmail.com](mailto:smalihaidry94@gmail.com).
 
-**Languages and Tools:**  
+**⚡ Impact Highlights**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,ansible,bash,cpp,cs,docker,git,github,grafana,java,kubernetes,linux,mongodb,mysql,nginx,postgres,powershell,prometheus,py,terraform,unity,vscode,windows,githubactions,java,jenkins,js&perline=5&theme=light)](https://skillicons.dev)
+- 🏗️ Automated Windows Server 2022 Hyper-V lifecycle across a 10+ server estate — eliminating manual provisioning and configuration drift.
+- 📊 Built end-to-end observability pipelines (Prometheus, Fluent Bit, Kafka, Loki, Grafana, Datadog) — 100% ops team satisfaction, 40% gain in infrastructure sustainability.
+- 💰 Designed an Azure FinOps governance framework (tagging, automated shutdown, rightsizing, budget alerts) — cut monthly cloud spend by $1,200 USD.
+- 🚀 Built CI/CD pipelines (Jenkins, GitHub Actions, AWS CodePipeline) — 25% faster release cadence, 70% faster containerised deployments.
+- 🩺 Reduced MTTR by 10% partnering with Azure DevOps using Datadog and ServiceNow.
+
+**Languages and Tools:**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,git,github,grafana,prometheus,powershell,bash,py,linux,windows,postgres,mysql,mongodb,nginx,vscode&perline=8&theme=light)](https://skillicons.dev)
+
+<img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" />
+<img alt="Argo CD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" />
+<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
+<img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+<img alt="Azure Bicep" src="https://img.shields.io/badge/Azure%20Bicep-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
 
 <br/>
-<br>
-<br>
 <br>
 
 ---
@@ -57,3 +68,7 @@ My learning and implementation persist in the domain of <strong>DevOps<strong>, 
 📈 My GitHub Stats !
 
 <p align="center"> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AliHaidry&show_icons=true&theme=gotham" alt="AliHaidry" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaidry&theme=gotham" alt="AliHaidry streak stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHaidry&theme=react-dark" alt="AliHaidry activity graph" /> </p>
