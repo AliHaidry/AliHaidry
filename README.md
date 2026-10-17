@@ -71,4 +71,4 @@ Hi, I'm [Syed Muhammad Ali Haidry](https://alihaidry-devops.website), a **DevOps
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaidry&theme=gotham" alt="AliHaidry streak stats" /> </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHaidry&theme=react-dark" alt="AliHaidry activity graph" /> </p>
+<p align="center"> <img src="https://activity-graph.vercel.app/graph?username=AliHaidry&theme=react-dark" alt="AliHaidry activity graph" /> </p>
